@@ -67,12 +67,15 @@ a {
 }
 
 .logo {
-    color: var(--greyLight-1);
+    background: #8ABDFF;
+    background: linear-gradient(to bottom right, var(--blue) 0%, var(--pink) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 40px;
     line-height: 1;
     font-weight: 900;
-    text-shadow: .15rem .15rem .2rem var(--indigo),
-        -.2rem -.2rem .2rem #fff;
+    text-shadow: .05rem .05rem .05rem var(--indigo),
+        -.05rem -.05rem .05rem #fff;
 }
 
 .box2 {
