@@ -1235,8 +1235,6 @@ a {
     }
 
     .logo {
-        text-shadow: .2rem .2rem .2rem var(--indigo),
-            -.2rem -.2rem .2rem #fff;
         line-height: 1;
     }
 
@@ -1334,8 +1332,6 @@ a {
 
     .logo {
         font-size: 42px;
-        text-shadow: .1rem .1rem .1rem var(--indigo),
-            -.1rem -.1rem .1rem #fff;
     }
 
     .schedule {
