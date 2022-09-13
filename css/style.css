@@ -1433,8 +1433,12 @@ a {
         font-size: 34px;
     }
 
+    .schedule {
+        transform: scale(.8);
+    }
+
     .opening-hours {
-        top: 100px;
+        top: 85px;
     }
 
     .intro__title-3 {
@@ -1525,14 +1529,6 @@ a {
 
     .logo {
         font-size: 30px;
-    }
-
-    .schedule {
-        transform: scale(.8);
-    }
-
-    .opening-hours {
-        top: 85px;
     }
 
     .intro {
